@@ -13,7 +13,7 @@ main:
     url: /portfolio/
         
   - title: "News"
-    url: /year-archive/
+    url: /non-menu-page/
     
   - title: "CV"
     url: /cv/
