@@ -30,7 +30,7 @@ permalink: /cv/
 
 ### Honors and Awards
 
-> "Winning doesn’t always mean being first. Winning means you’re doing better than you’ve ever done before." —Bonnie Blair
+> "Winning doesn’t always mean being first. Winning means you’re doing better than you’ve ever done before." — Bonnie Blair
 {: .small}
 #### _Scholarship Awards_
 
@@ -64,26 +64,17 @@ permalink: /cv/
 | 2013 & 2014    | _Graduate Student Travel Fund_, Khalifa University, United Arab Emirates    |
 
 
+### Professional and Volunteer Service
 
-
-## Tables
-
-| Employee         | Salary |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | $1     | Because that's all Steve Jobs needed for a salary.           |
-| [Jane Doe](#)    | $100K  | For all the blogging she does.                               |
-| [Fred Bloggs](#) | $100M  | Pictures are worth a thousand words, right? So Jane × 1,000. |
-| [Jane Bloggs](#) | $100B  | With hair like that?! Enough said.                           |
-
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|-----------------------------|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=============================|
-| Foot1   | Foot2   | Foot3   |
+| Year           | Activity                                                         |
+| --------       | ------------------------------------------------------------------- |
+| 2017 - Present | Community Service
+                   :   Volunteer/Baby Room Distributor, [Calgary Food Bank](http://www.calgaryfoodbank.com/) 
+                   :   Coordinator, [Beacon Nigeria Education Foundation](http://www.http://beaconnigeria.org/) |
+| 2016           | _International Student Travel Grant_, Faculty of Graduate Studies, University of Calgary   |
+| 2016           | _Students' Activity Funds_, Schulich School of Engineering, University of Calgary    |
+| 2014           | _Student Travel Grant_, 76th European Association of Geoscientists and Engineers (EAGE), Amsterdam    |
+| 2013 & 2014    | _Graduate Student Travel Fund_, Khalifa University, United Arab Emirates    |
 
 ## Definition Lists
 
