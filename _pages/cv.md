@@ -77,11 +77,11 @@ See the [Teaching tab](https://dapson2real.github.io/web/teaching/) for details.
 See the [Publication tab](https://dapson2real.github.io/web/publications/) for the comprehensive list. You can also find my articles on either my [Google Scholar profile](https://scholar.google.ca/citations?user=2a5YwcYAAAAJ&hl=en) or [Mendeley profile](https://www.mendeley.com/profiles/adedapo-awolayo/). 
 {: .small}
 
+### Professional and Volunteer Service
 
-#### _Travel Awards_
-
-| Year           | Description                                                         |
+#### _Community Service_
+| Year           | Activity                                                            |
 | --------       | ------------------------------------------------------------------- |
-| 2016 & 2017    | _Academic Project Grant_, Graduate Student Association, University of Calgary |
-| 2016           | _International Student Travel Grant_, Faculty of Graduate Studies, University of Calgary   |
+| 2017 - Present | _Coordinator_, [Beacon Nigeria Education Foundation](http://www.http://beaconnigeria.org/)      |
+| 2017 - 2019    | _Volunteer/Distributor_, [Calgary Food Bank](http://www.calgaryfoodbank.com/)  |
 
