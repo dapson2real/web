@@ -6,6 +6,7 @@ permalink: /cv/
 
 ### Education
 
+
 | Date              | Degree | Institution | Supervisor |
 |:--------          |:-------|:--------|
 | April 2019        | Doctor of Philosophy, [Chemical and Petroleum Engineering](http://schulich.ucalgary.ca/departments/chemical-and-petroleum-engineering/)   | University of Calgary   | [Hemanta K. Sarma](https://schulich.ucalgary.ca/profiles/hemanta-sarma/), Ph.D & [Long X. Nghiem](https://www.cmgl.ca/team/long-nghiem/), Ph.D.|
@@ -27,12 +28,19 @@ permalink: /cv/
 | December 2010     | Facility Quality Control Chemist (Internship)               | [Total Nigeria Plc.](http://www.total.com.ng/home.html) (Downstream Division)      |
 
 
-
-## Blockquotes
-
-Single line blockquote:
+### Honors and Awards
 
 > Stay hungry. Stay foolish.
+{: .small}
+#### _Scholarship Awards_
+
+| Year           | Description                                                         |
+| --------       | ------------------------------------------------------------------- |
+| 2017 - 2020    | [_Vanier Canada Graduate Scholarship_](http://www.vanier.gc.ca/en/scholar_search-chercheur_recherche_2017.html) - NSERC. The most prestigious Doctoral scholarship in Canada). [See the list of 2017 Vanier Scholars](http://www.ucalgary.ca/utoday/issue/2014-08-15/eleven-vanier-scholarship-recipients-announced-2014) of University of Calgary published in [UToday](http://www.ucalgary.ca/utoday/).|
+| 2017 & 2018    | [_Izaak Walton Killam Doctoral Memorial Scholarship_](http://killamlaureates.ca/annual-report-2017/page_35.html). One of the most prestigious scholarship offered at six major Canadian Institutions through University-wide Competition by [Killam Trusts](http://killamlaureates.ca/who-we-are/killam-trustees/). See [2017 Killam Laureates celebrated at annual reception](https://www.ucalgary.ca/utoday/issue/2017-10-19/2017-killam-laureates-celebrated-annual-reception) and [Annual reception honours 2018 Killam Laureates] published in [UToday](http://www.ucalgary.ca/utoday/).                               |
+| [Fred Bloggs](#) | $100M  Pictures are worth a thousand words, right? So Jane × 1,000. |
+| [Jane Bloggs](#) | $100B  With hair like that?! Enough said.                           |
+
 
 Multi line blockquote with a cite reference:
 
