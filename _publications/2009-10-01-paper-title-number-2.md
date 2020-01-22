@@ -1,5 +1,5 @@
 ---
-title: "A Laboratory Study of Ionic Effect of Smart Water for Enhancing Oil Recovery in Carbonate Reservoirs"
+title: "An Experimental Study of Smart Waterflooding on Fractured Carbonate Reservoirs"
 category: conference proceedings
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-2
