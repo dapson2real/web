@@ -4,7 +4,7 @@ category: conference proceedings
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-4
 excerpt: "Characterization and fluid quantification of Carbonate reservoirs looks more challenging than those of sandstone reservoirs. The determination of accurate hydrocarbon saturation is more tasking due to their complex and heterogeneous pore structures, and mineralogy. Traditionally, resistivity logs are used to identify pay intervals due to the resistivity contrast between oil and water. However, when pay intervals exhibit low resistivity, such logs exhibit low confidence in the precise determination of the hydrocarbon saturation. Few Middle-Eastern reservoirs are categorized as low resistivity pay, where resistivity based log analysis results in high water saturation. However, downhole fluid analysis identifies mobile oil, and the formation flows dry or nearly dry oil during production tests. This makes resistivity based saturation computation questionable."
-date: 2014-06-16
+date: 2015-11-12
 venue: 'Proceedings of the 2015 Abu Dhabi International Petroleum Exhibition & Conference (ADIPEC 2015), November 9 - 12, UAE'
 paperurl: 'https://doi.org/10.2118/177709-MS'
 citation: 'Uchida, M., Salahuddin, A.A., Awolayo, A.N., Olayiwola, S.O. and Khaled E.A. (2015). &quot;Evaluation of Water Saturation in a Low-Resistivity Pay Carbonate Reservoir Onshore Abu Dhabi: An Integrated Approach.&quot; <i>Proceedings of the 2015 Abu Dhabi International Petroleum Exhibition & Conference (ADIPEC 2015), November 9 - 12, UAE</i>.'
