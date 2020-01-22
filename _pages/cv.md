@@ -6,8 +6,8 @@ permalink: /cv/
 
 ## Education
 
-| Date | Degree | Institution |
-|:--------|:-------:|--------:|
+| Date              | Degree | Institution |
+|:--------          |:-------|:--------|
 | April 2019        | Doctor of Philosophy, Chemical and Petroleum Engineering   | University of Calgary   |
 | May 2014          | Master of Science, Petroleum Engineering                   | Khalifa University      |
 | December 2010     | Bachelor of Technology, Chemical Engineering               | Ladoke Akintola University of Technology      |
