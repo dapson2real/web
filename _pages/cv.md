@@ -30,8 +30,8 @@ permalink: /cv/
 
 ### Teaching Experience
 
-See the <u><a href="https://dapson2real.github.io/web/teaching/">Teaching tab</a></u> for the comprehensive list.
-
+See the [Teaching tab](https://dapson2real.github.io/web/teaching/) for details.
+{: .small}
 
 ### Honors and Awards
 
@@ -71,8 +71,8 @@ See the <u><a href="https://dapson2real.github.io/web/teaching/">Teaching tab</a
 
 ### Publication
 
-You can also find my articles on either my <u><a href="https://scholar.google.ca/citations?user=2a5YwcYAAAAJ&hl=en">Google Scholar profile</a></u> or <u><a href="https://www.mendeley.com/profiles/adedapo-awolayo/">Mendeley profile</a></u>. See the <u><a href="https://dapson2real.github.io/web/publications/">Publication tab</a></u> for the comprehensive list.
-
+See the [Publication tab](https://dapson2real.github.io/web/publications/) for the comprehensive list. You can also find my articles on either my [Google Scholar profile](https://scholar.google.ca/citations?user=2a5YwcYAAAAJ&hl=en) or [Mendeley profile](https://www.mendeley.com/profiles/adedapo-awolayo/). 
+{: .small}
 
 ### Professional and Volunteer Service
 
