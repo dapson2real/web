@@ -16,5 +16,4 @@ Waterflooding seems to be an economical technique to recover oil from fractured 
 Middle East carbonate cores, dead crude oil, and smart water of different salinity were used in both static imbibition cells and centrifuge experiments. In order to gain better understanding of the relative contribution of oil recovery between fracture and matrix, different core configurations were used. The tests were carried out initially with formation brine and followed by different slugs of smart water. Presented in this work are the results obtained from the formation brine-oil imbibition tests and smart water-oil imbibition tests in fractured and unfractured cores. Results showed that waterflood recovery from fractured carbonate cores was about 50% of the OOIC while incremental displacement for smart water imbibition was observed nearly as high as 13%.
 
 [Download paper here](https://www.researchgate.net/publication/287301434_An_Experimental_Study_of_Smart_Waterflooding_on_Fractured_Carbonate_Reservoirs)
-{: .small}
 
