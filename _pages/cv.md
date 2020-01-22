@@ -74,5 +74,14 @@ See the [Teaching tab](https://dapson2real.github.io/web/teaching/) for details.
 
 ### Publication
 
-See the [Publication tab](https://dapson2real.github.io/web/publications/) for the comprehensive list. You can also find my articles on either my [Google Scholar profile](https://scholar.google.ca/citations?user=2a5YwcYAAAAJ&hl=en) or [Mendeley profile](https://www.mendeley.com/profiles/adedapo-awolayo/). {: .small}
+See the [Publication tab](https://dapson2real.github.io/web/publications/) for the comprehensive list. You can also find my articles on either my [Google Scholar profile](https://scholar.google.ca/citations?user=2a5YwcYAAAAJ&hl=en) or [Mendeley profile](https://www.mendeley.com/profiles/adedapo-awolayo/). 
+{: .small}
+
+
+#### _Travel Awards_
+
+| Year           | Description                                                         |
+| --------       | ------------------------------------------------------------------- |
+| 2016 & 2017    | _Academic Project Grant_, Graduate Student Association, University of Calgary |
+| 2016           | _International Student Travel Grant_, Faculty of Graduate Studies, University of Calgary   |
 
