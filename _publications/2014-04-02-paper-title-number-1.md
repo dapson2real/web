@@ -19,5 +19,4 @@ This paper describes a series of experiments on Middle East carbonate core plugs
 Results obtained are therefore discussed within the framework of mechanisms previously discussed for smart water ability to enhance oil recovery. The study then concluded that a relatively economical modification of injection water composition can significantly increase oil recovery.
 
 [Download paper here](https://www.researchgate.net/publication/267458547_A_Laboratory_Study_of_Ionic_Effect_of_Smart_Water_for_Enhancing_Oil_Recovery_in_Carbonate_Reservoirs)
-{: .small}
 
