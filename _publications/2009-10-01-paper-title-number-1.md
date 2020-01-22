@@ -7,7 +7,7 @@ excerpt: "Enhanced oil recovery by smart waterflooding represents a cheap, imple
 date: 2014-04-02
 venue: 'Proceedings of the SPE EOR Conference at Oil and Gas West Asia, Muscat, Oman'
 paperurl: 'https://doi.org/10.2118/169662-MS'
-citation: 'Awolayo, A.N., Sarma, H.K., and AlSumaiti, A.M. (2014). &quot;A Laboratory Study of Ionic Effect of Smart Water for Enhancing Oil Recovery in Carbonate Reservoirs.&quot; <i>Proceedings of the SPE EOR Conference at Oil and Gas West Asia</i>.{: .small}'
+citation: 'Awolayo, A.N., Sarma, H.K., and AlSumaiti, A.M. (2014). &quot;A Laboratory Study of Ionic Effect of Smart Water for Enhancing Oil Recovery in Carbonate Reservoirs.&quot; <i>Proceedings of the SPE EOR Conference at Oil and Gas West Asia, Muscat, Oman</i>.{: .small}'
 ---
 Abstract: Enhanced oil recovery by smart waterflooding represents a cheap, implementable and attractive emerging oil recovery technology. For sandstone reservoirs, smart waterflooding has shown incremental oil recovery in most laboratory and field tests while some promising experimental data have been presented from carbonates. It seems more difficult to assume a favourable performance for a reservoir a priori while dismissing the other, so more data and better understanding of the underlying mechanism in carbonates are needed.
 
