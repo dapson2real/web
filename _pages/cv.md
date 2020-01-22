@@ -36,18 +36,35 @@ permalink: /cv/
 
 | Year           | Description                                                         |
 | --------       | ------------------------------------------------------------------- |
-| 2017 - 2020    | [_Vanier Canada Graduate Scholarship_](http://www.vanier.gc.ca/en/scholar_search-chercheur_recherche_2017.html) - NSERC. The most prestigious Doctoral scholarship in Canada). [See the list of 2017 Vanier Scholars](http://www.ucalgary.ca/utoday/issue/2014-08-15/eleven-vanier-scholarship-recipients-announced-2014) of University of Calgary published in [UToday](http://www.ucalgary.ca/utoday/).|
-| 2017 & 2018    | [_Izaak Walton Killam Doctoral Memorial Scholarship_](http://killamlaureates.ca/annual-report-2017/page_35.html). One of the most prestigious scholarship offered at six major Canadian Institutions through University-wide Competition by [Killam Trusts](http://killamlaureates.ca/who-we-are/killam-trustees/). See [2017 Killam Laureates celebrated at annual reception](https://www.ucalgary.ca/utoday/issue/2017-10-19/2017-killam-laureates-celebrated-annual-reception) and [Annual reception honours 2018 Killam Laureates] published in [UToday](http://www.ucalgary.ca/utoday/).                               |
-| [Fred Bloggs](#) | $100M  Pictures are worth a thousand words, right? So Jane × 1,000. |
-| [Jane Bloggs](#) | $100B  With hair like that?! Enough said.                           |
+| 2017 - 2020    | [_Vanier Canada Graduate Scholarship_](http://www.vanier.gc.ca/en/scholar_search-chercheur_recherche_2017.html) - NSERC. The most prestigious Doctoral scholarship in Canada). See [the list of 2017 Vanier Scholars of University of Calgary](http://www.ucalgary.ca/utoday/issue/2014-08-15/eleven-vanier-scholarship-recipients-announced-2014) published in [UToday](http://www.ucalgary.ca/utoday/).|
+| 2017 & 2018    | [_Izaak Walton Killam Doctoral Memorial Scholarship_](http://killamlaureates.ca/annual-report-2017/page_35.html). One of the most prestigious scholarship offered at six major Canadian Institutions through University-wide Competition by [Killam Trusts](http://killamlaureates.ca/who-we-are/killam-trustees/). See [2017 Killam Laureates celebrated at annual reception](https://www.ucalgary.ca/utoday/issue/2017-10-19/2017-killam-laureates-celebrated-annual-reception) and [Annual reception honours 2018 Killam Laureates](https://www.ucalgary.ca/utoday/issue/2018-11-27/annual-reception-honours-2018-killam-laureates) published in [UToday](http://www.ucalgary.ca/utoday/).                               |
+| 2016 & 2017   | _Departmental Graduate Excellence Award_, Chemical and Petroleum Engineering Department, University of Calgary. |
+| 2016          | [_Dean's Entrance Graduate Scholarship_](https://iac01.ucalgary.ca/FGSA/Public/SpecificAward.aspx?AwardID=4943), Faculty of Graduate Studies, University of Calgary.       |
+| 2015          | [_Eyes High International Recruitment Scholarship_](https://iac01.ucalgary.ca/FGSA/Public/SpecificAward.aspx?AwardID=4910), Faculty of Graduate Studies, University of Calgary.       |
+| 2012 - 2014   | _Fellowship Graduate Assistant_, Khalifa University.       |
+
+#### _Academic and Research Honors_
+
+| Year           | Description                                                         |
+| --------       | ------------------------------------------------------------------- |
+| 2019           | _Governor General's Gold Medal & Chancellor's Graduate Medal Nominee_, Faculty of Graduate Studies, University of Calgary |
+| 2017           | [_First Place Winner_](http://www.spe.org/students/contests/winners.php), Society of Petroleum Engineers (SPE) Canada Regional Student's Paper Contest (PhD Category)|
+| 2014           | _Hay Bin Yaqdhan Research & Development Student Award_, ADNOC Operating Companies' R&D Oil and Gas Sub-Committees, United Arab Emirates    |
+| 2014           | _Second Place Winner_, Fifth Young Professional Paper Contest, SPE Abu Dhabi Section, United Arab Emirates    |
+| 2014           | _Third Place Winner_, Forth Young Professional Paper Contest, SPE Abu Dhabi Section, United Arab Emirates    |
+
+#### _Travel Awards_
+
+| Year           | Description                                                         |
+| --------       | ------------------------------------------------------------------- |
+| 2016 & 2017    | _Academic Project Grant_, Graduate Student Association, University of Calgary |
+| 2016           | _International Student Travel Grant_, Faculty of Graduate Studies, University of Calgary   |
+| 2016           | _Students' Activity Funds_, Schulich School of Engineering, University of Calgary    |
+| 2014           | _Student Travel Grant_, 76th European Association of Geoscientists and Engineers (EAGE), Amsterdam    |
+| 2013 & 2014    | _Graduate Student Travel Fund_, Khalifa University, United Arab Emirates    |
 
 
-Multi line blockquote with a cite reference:
 
-> People think focus means saying yes to the thing you've got to focus on. But that's not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I'm actually as proud of the things we haven't done as the things I have done. Innovation is saying no to 1,000 things.
-
-<cite>Steve Jobs</cite> --- Apple Worldwide Developers' Conference, 1997
-{: .small}
 
 ## Tables
 
