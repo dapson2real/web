@@ -1,10 +1,16 @@
 ---
-title: "CV"
+title: "Curriculum Vitae"
 layout: archive
 permalink: /cv/
 ---
 
-A variety of common markup showing how the theme styles them.
+## Education
+
+| Date | Degree | Institution |
+|:--------|:-------:|--------:|
+| April 2019   | Doctor of Philosophy, Chemical and Petroleum Engineering   | University of Calgary   |
+| May 2014   | Master of Science, Chemical Engineering   | Khalifa University   |
+
 
 # Header one
 
