@@ -4,7 +4,7 @@ layout: archive
 permalink: /cv/
 ---
 
-## Education
+### Education
 
 | Date              | Degree | Institution |
 |:--------          |:-------|:--------|
@@ -13,17 +13,17 @@ permalink: /cv/
 | December 2010     | Bachelor of Technology, Chemical Engineering               | Ladoke Akintola University of Technology      |
 
 
-# Header one
+### Research and Industrial Experience
 
-## Header two
+> A versatile and results-driven professional in subsurface multiphase engineering and simulation. Demonstrated success in using applied research and analytical skills to provide solutions to complex engineering problems as shown through independent innovation and multidisciplinary collaborations
+{: .small}
 
-### Header three
-
-#### Header four
-
-##### Header five
-
-###### Header six
+| Date              | Position | Affiliated Organization |
+|:--------          |:-------  |:--------|
+| April 2019        | Doctoral Research Scientist (Subsurface Tools Development)    | University of Calgary & Computer Modelling Group Ltd. (R&D Division)  |
+| May 2014          | Reservoir Engineer (Reservoir Strategy and Onshore Operations Team)                  | Abu Dhabi National Oil Company (ADNOC) Onshore      |
+| December 2010     | Research Engineer (Subsurface Tools Development)               | Khalifa University      |
+| December 2010     | Facility Quality Control Chemist (Internship)               | Total Nigeria Plc. (Downstream Division)      |
 
 ## Blockquotes
 
