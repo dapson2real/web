@@ -8,23 +8,25 @@ permalink: /cv/
 
 | Date              | Degree | Institution | Supervisor |
 |:--------          |:-------|:--------|
-| April 2019        | Doctor of Philosophy, Chemical and Petroleum Engineering   | University of Calgary   | [Hemanta K. Sarma](https://schulich.ucalgary.ca/profiles/hemanta-sarma/), Ph.D & [Long X. Nghiem](https://www.cmgl.ca/team/long-nghiem/), Ph.D.|
-| May 2014          | Master of Science, Petroleum Engineering                   | Khalifa University      | [Hemanta K. Sarma](https://schulich.ucalgary.ca/profiles/hemanta-sarma/), Ph.D & [Ali M. AlSumaiti, Ph.D](https://www.researchgate.net/profile/Ali_Alsumaiti), Ph.D. |
-| December 2010     | Bachelor of Technology, Chemical Engineering               | Ladoke Akintola University of Technology      | [Lukuman Jimoda, Ph.D](https://scholar.google.com/citations?user=29CmhjYAAAAJ&hl=en), Ph.D |
+| April 2019        | Doctor of Philosophy, [Chemical and Petroleum Engineering](http://schulich.ucalgary.ca/departments/chemical-and-petroleum-engineering/)   | University of Calgary   | [Hemanta K. Sarma](https://schulich.ucalgary.ca/profiles/hemanta-sarma/), Ph.D & [Long X. Nghiem](https://www.cmgl.ca/team/long-nghiem/), Ph.D.|
+| May 2014          | Master of Science, [Petroleum Engineering](http://www.ku.ac.ae/pages/department-of-petroleum-engineering/15272)                   | Khalifa University      | [Hemanta K. Sarma](https://schulich.ucalgary.ca/profiles/hemanta-sarma/), Ph.D & [Ali M. AlSumaiti](https://www.researchgate.net/profile/Ali_Alsumaiti), Ph.D. |
+| December 2010     | Bachelor of Technology, [Chemical Engineering](#)               | Ladoke Akintola University of Technology      | [Lukuman Jimoda](https://scholar.google.com/citations?user=29CmhjYAAAAJ&hl=en), Ph.D |
 
 
 ### Research and Industrial Experience
 
 > A versatile and results-driven professional in subsurface multiphase engineering and simulation. Demonstrated success in using applied research and analytical skills to provide solutions to complex engineering problems as shown through independent innovation and multidisciplinary collaborations
-
+{: .small}
 
 
 | Date              | Position | Affiliated Organization |
 |:--------          |:-------  |:--------|
-| April 2019        | Doctoral Research Scientist (Subsurface Tools Development)    | University of Calgary & Computer Modelling Group Ltd. (R&D Division)  |
-| May 2014          | Reservoir Engineer (Reservoir Strategy and Onshore Operations Team)                  | Abu Dhabi National Oil Company (ADNOC) Onshore      |
+| April 2019        | Doctoral Research Scientist (Subsurface Tools Development)    | University of Calgary & [Computer Modelling Group Ltd.](https://www.cmgl.ca/) (R&D Division)  |
+| May 2014          | Reservoir Engineer (Reservoir Strategy and Onshore Operations Team)                  | [Abu Dhabi National Oil Company (ADNOC) Onshore](https://adnoc.ae/adnoc-onshore)   |
 | December 2010     | Research Engineer (Subsurface Tools Development)               | Khalifa University      |
-| December 2010     | Facility Quality Control Chemist (Internship)               | Total Nigeria Plc. (Downstream Division)      |
+| December 2010     | Facility Quality Control Chemist (Internship)               | [Total Nigeria Plc.](http://www.total.com.ng/home.html) (Downstream Division)      |
+
+
 
 ## Blockquotes
 
