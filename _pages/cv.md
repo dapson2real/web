@@ -111,6 +111,3 @@ See the [Publication tab](https://dapson2real.github.io/web/publications/) for t
 | 2016           | Member, Organizing Committee and Session Chair for 2016 Departmental Graduate Students' Conference, University of Calgary      |
 | 2016           | Grand Award Judge for Chapter activities, SPE International Student Chapter      |
 | 2015 - 2017    | Mentor, Global Engineering Mentorship team, [Engineers Without Borders Canada](http://www.ucalgary.ca/ewb/about) University of Calgary Chapter      |
-
-
-
