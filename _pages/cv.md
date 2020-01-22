@@ -68,13 +68,22 @@ permalink: /cv/
 
 | Year           | Activity                                                         |
 | --------       | ------------------------------------------------------------------- |
-| 2017 - Present | Community Service
-                   :   Volunteer/Baby Room Distributor, [Calgary Food Bank](http://www.calgaryfoodbank.com/) 
-                   :   Coordinator, [Beacon Nigeria Education Foundation](http://www.http://beaconnigeria.org/) |
-| 2016           | _International Student Travel Grant_, Faculty of Graduate Studies, University of Calgary   |
-| 2016           | _Students' Activity Funds_, Schulich School of Engineering, University of Calgary    |
-| 2014           | _Student Travel Grant_, 76th European Association of Geoscientists and Engineers (EAGE), Amsterdam    |
-| 2013 & 2014    | _Graduate Student Travel Fund_, Khalifa University, United Arab Emirates    |
+| Community Service                                                                 |
+| 2017 - Present | Coordinator, [Beacon Nigeria Education Foundation](http://www.http://beaconnigeria.org/)      |
+| 2017 - 2019    | Volunteer/Distributor, [Calgary Food Bank](http://www.calgaryfoodbank.com/)  |
+| Journal Referee Service                                                                 |
+| 2019 - Present | [SPE Reservoir Evaluation & Engineering-Reservoir Engineering](https://www.onepetro.org/journals/SPE\%20Reservoir\%20Evaluation\%20-\%20Engineering/Preprint/Preprint)      |
+| 2019 - Present | [International Journal of Greenhouse Gas Control](https://www.journals.elsevier.com/international-journal-of-greenhouse-gas-control)      |
+| 2019 - Present | [Petroleum Science Journal](https://link.springer.com/journal/12182)      |
+| 2018 - Present | [Journal of Petroleum Exploration and Production Technology](https://beta.springer.com/journal/13202)      |
+| 2018 - Present | [Fuel Journal](https://www.journals.elsevier.com/fuel)      |
+| 2018 - Present | [Energy & Fuels Journal](https://pubs.acs.org/journal/enfuem)      |
+| 2018 - Present | [Energies Journal](https://www.mdpi.com/journal/energies)      |
+| 2017 - Present | [Journal of Petroleum Science and Engineering](https://www.journals.elsevier.com/journal-of-petroleum-science-and-engineering)      |
+| Student-Oriented Service                                                                 |
+
+
+
 
 ## Definition Lists
 
