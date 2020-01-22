@@ -64,14 +64,22 @@ permalink: /cv/
 | 2013 & 2014    | _Graduate Student Travel Fund_, Khalifa University, United Arab Emirates    |
 
 
+### Publication
+
+You can also find my articles on either my <u><a href="https://scholar.google.ca/citations?user=2a5YwcYAAAAJ&hl=en">Google Scholar profile</a>.</u> or <u><a href="https://www.mendeley.com/profiles/adedapo-awolayo/">Mendeley profile</a>.</u>. See the <u><a href="https://dapson2real.github.io/web/publications/">Publication tab</a>.</u> for the comprehensive list.
+
+
 ### Professional and Volunteer Service
 
+#### _Community Service_
 | Year           | Activity                                                         |
 | --------       | ------------------------------------------------------------------- |
-| Community Service                                                                 |
 | 2017 - Present | Coordinator, [Beacon Nigeria Education Foundation](http://www.http://beaconnigeria.org/)      |
 | 2017 - 2019    | Volunteer/Distributor, [Calgary Food Bank](http://www.calgaryfoodbank.com/)  |
-| Journal Referee Service                                                                 |
+
+#### _Journal Referee Service_
+| Year           | Activity                                                         |
+| --------       | ------------------------------------------------------------------- |
 | 2019 - Present | [SPE Reservoir Evaluation & Engineering-Reservoir Engineering](https://www.onepetro.org/journals/SPE\%20Reservoir\%20Evaluation\%20-\%20Engineering/Preprint/Preprint)      |
 | 2019 - Present | [International Journal of Greenhouse Gas Control](https://www.journals.elsevier.com/international-journal-of-greenhouse-gas-control)      |
 | 2019 - Present | [Petroleum Science Journal](https://link.springer.com/journal/12182)      |
@@ -80,9 +88,21 @@ permalink: /cv/
 | 2018 - Present | [Energy & Fuels Journal](https://pubs.acs.org/journal/enfuem)      |
 | 2018 - Present | [Energies Journal](https://www.mdpi.com/journal/energies)      |
 | 2017 - Present | [Journal of Petroleum Science and Engineering](https://www.journals.elsevier.com/journal-of-petroleum-science-and-engineering)      |
-| Student-Oriented Service                                                                 |
 
-
+#### _Student-Oriented Service_
+| Year           | Activity                                                         |
+| --------       | ------------------------------------------------------------------- |
+| 2017 - 2019    | Reviewer/Mentor, [Graduate Leaders Circle](https://wcm.ucalgary.ca/graduate-leaders-circle/), University of Calgary      |
+| 2018 - 2019    | Member, Awards Committee, Graduate Student Association, University of Calgary      |
+| 2018           | Member, Program Committee on 2018 Departmental Graduate Students' Conference, University of Calgary      |
+| 2017 - 2018    | Member, Standing Committee on Newcomers & International students' advocacy and activities, Graduate Student Association, University of Calgary      |
+| 2017 - 2018    | Member, Standing Committee reviewing financial  statements, Graduate Student Association, University of Calgary      |
+| 2017 - 2018    | Volunteer, Spring and Fall Convocation, University of Calgary      |
+| 2017 - 2018    | Mentor, International Student Mentorship Program, University of Calgary      |
+| 2016 - 2018    | Activity Leader, New Graduate Students' Orientation, Faculty of Graduate Studies, University of Calgary      |
+| 2016           | Member, Organizing Committee and Session Chair for 2016 Departmental Graduate Students' Conference, University of Calgary      |
+| 2016           | Grand Award Judge for Chapter activities, SPE International Student Chapter      |
+| 2015 - 2017    | Mentor, Global Engineering Mentorship team, [Engineers Without Borders Canada](http://www.ucalgary.ca/ewb/about) University of Calgary Chapter      |
 
 
 ## Definition Lists
