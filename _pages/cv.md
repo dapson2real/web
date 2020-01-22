@@ -2,6 +2,9 @@
 title: "Curriculum Vitae"
 layout: archive
 permalink: /cv/
+redirect_from: 
+  - /resume/
+  - /resume.html
 ---
 
 ### Education
