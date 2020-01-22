@@ -1,0 +1,22 @@
+---
+title: "A Comprehensive Geochemical-based Approach at Modeling and Interpreting Brine Dilution in Carbonate Reservoirs"
+category: conference proceedings
+collection: publications
+permalink: /publication/2017-02-22-paper-title-number-9
+excerpt: "It has been amply proven through laboratory studies, affirmed by a few field trials, that dilution of brine injected has a potent impact on improving oil recovery in carbonate reservoirs. However, debate still exists as to the mechanisms responsible for such impact. The widely acknowledged underlying mechanism is the wettability alteration, achieved through a combination of lower ionic strength, multi-ion exchange, surface charge and mineral alteration. Therefore, the motive behind this study is to develop a model that can further support and interpret the brine dilution approach in the framework of carbonate reservoirs. In this paper, we formulated a theory for the observed behavior that coupled equations of multi-component transport and geochemical reactions. The geochemical system considered a choice of significant ions and minerals, relevant to the published experiments. Mechanisms included in the model were dispersion/diffusion, instantaneous equilibrium reactions in terms of intra-aqueous and sorption reactions, and non-equilibrium rate controlled kinetic reactions-mineral alteration. The equivalent modification in wettability was represented by interpolating through a set of flow functions, particularly the relative permeability characteristics."
+date: 2017-02-22
+venue: 'Proceedings of the 2017 SPE Reservoir Simulation Conference, February 20 - 22, Montgomery, Texas, USA'
+paperurl: 'https://doi.org/10.2118/182626-MS'
+citation: 'Awolayo, A.N., Sarma, H.K. and Nghiem L.X. (2017). &quot;A Comprehensive Geochemical-based Approach at Modeling and Interpreting Brine Dilution in Carbonate Reservoirs.&quot; <i>Proceedings of the 2017 SPE Reservoir Simulation Conference, February 20 - 22, Montgomery, Texas, USA</i>.'
+---
+**Abstract**: It has been amply proven through laboratory studies, affirmed by a few field trials, that dilution of brine injected has a potent impact on improving oil recovery in carbonate reservoirs. However, debate still exists as to the mechanisms responsible for such impact. The widely acknowledged underlying mechanism is the wettability alteration, achieved through a combination of lower ionic strength, multi-ion exchange, surface charge and mineral alteration. Therefore, the motive behind this study is to develop a model that can further support and interpret the brine dilution approach in the framework of carbonate reservoirs.
+
+In this paper, we formulated a theory for the observed behavior that coupled equations of multi-component transport and geochemical reactions. The geochemical system considered a choice of significant ions and minerals, relevant to the published experiments. Mechanisms included in the model were dispersion/diffusion, instantaneous equilibrium reactions in terms of intra-aqueous and sorption reactions, and non-equilibrium rate controlled kinetic reactions-mineral alteration. The equivalent modification in wettability was represented by interpolating through a set of flow functions, particularly the relative permeability characteristics.
+
+The model was employed to interpret recently published experimental data on carbonate core plugs (Austad et al. (2011); Yousef et al. (2011); Yi and Sarma (2012); Chandrasekhar and Mohanty (2013)) where systematic dilutions of injectate against the initial formation brine were analyzed. Considering known values of injection rate, thermodynamic equilibrium constants, and reaction rate constants, the model was able to capture the trend of the experimental oil recovery and effluent ion concentrations. Thus, the model could help interpret the observed behavior as a sequel to an interplay between surface charge and mineral alteration. The trend typically reflected a speedy transient period at early times, trailed by relaxed transient period and finally reaching a steady state solution.
+
+The model was used to closely examine the dominant chemical mechanism responsible for improved oil mobilization relating to brine dilution during smart waterflooding. A thorough understanding of the mechanisms at play during any recovery process is crucial for its successful implementation as well as reliable production modeling, forecasting and optimization.
+
+[Download paper here](https://www.onepetro.org/conference-paper/SPE-182626-MS)
+{: .small}
+
