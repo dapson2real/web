@@ -6,17 +6,18 @@ permalink: /cv/
 
 ### Education
 
-| Date              | Degree | Institution |
+| Date              | Degree | Institution | Supervisor |
 |:--------          |:-------|:--------|
-| April 2019        | Doctor of Philosophy, Chemical and Petroleum Engineering   | University of Calgary   |
-| May 2014          | Master of Science, Petroleum Engineering                   | Khalifa University      |
-| December 2010     | Bachelor of Technology, Chemical Engineering               | Ladoke Akintola University of Technology      |
+| April 2019        | Doctor of Philosophy, Chemical and Petroleum Engineering   | University of Calgary   | [Hemanta K. Sarma](https://schulich.ucalgary.ca/profiles/hemanta-sarma/), Ph.D & [Long X. Nghiem](https://www.cmgl.ca/team/long-nghiem/), Ph.D.|
+| May 2014          | Master of Science, Petroleum Engineering                   | Khalifa University      | [Hemanta K. Sarma](https://schulich.ucalgary.ca/profiles/hemanta-sarma/), Ph.D & [Ali M. AlSumaiti, Ph.D](https://www.researchgate.net/profile/Ali_Alsumaiti), Ph.D. |
+| December 2010     | Bachelor of Technology, Chemical Engineering               | Ladoke Akintola University of Technology      | [Lukuman Jimoda, Ph.D](https://scholar.google.com/citations?user=29CmhjYAAAAJ&hl=en), Ph.D |
 
 
 ### Research and Industrial Experience
 
 > A versatile and results-driven professional in subsurface multiphase engineering and simulation. Demonstrated success in using applied research and analytical skills to provide solutions to complex engineering problems as shown through independent innovation and multidisciplinary collaborations
-{: .small}
+
+
 
 | Date              | Position | Affiliated Organization |
 |:--------          |:-------  |:--------|
