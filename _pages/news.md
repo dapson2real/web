@@ -1,5 +1,5 @@
 ---
-permalink: /non-menu-page/
+permalink: /news/
 title: "News"
 author_profile: true
 ---
