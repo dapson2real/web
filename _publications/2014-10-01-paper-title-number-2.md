@@ -2,7 +2,7 @@
 title: "An Experimental Study of Smart Waterflooding on Fractured Carbonate Reservoirs"
 category: conference proceedings
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-2
+permalink: /publication/2014-10-01-paper-title-number-2
 excerpt: "Wetting state in many fractured carbonate reservoirs exists between mixed-wet to oil-wet. Interaction of negatively charged carboxylic molecules in the crude oil with the rock surface, and high capillary pressure encountered during oil migration into the reservoir rock frequently render the rock oil-wet. Similarly, the existence of fractures solitarily governs the fluid flow dynamics in the porous media. Therefore, oil recovery from oil-wet fractured reservoirs is extremely tasking due to complex mechanisms involved in interactions between the double porosity system and the reservoir fluids."
 date: 2014-10-01
 venue: 'Proceedings of the ASME 2014 33rd International Conference on Ocean, Offshore and Arctic Engineering, pp. V005T11A024, June 8 – 13, San Francisco, California, USA'
