@@ -5,7 +5,7 @@ collection: publications
 permalink: /publication/2017-10-11-paper-title-number-10
 excerpt: "Brine-dependent oil recovery in carbonate rocks has developed into an active area of research in the past two decades. It is well documented in the literature that wettability of carbonate rocks is altered due to desorption of oil acid groups from rock surfaces by the adsorbed sulfate, while the divalent cations co-adsorbed to maintain the surface charge balance as well as to reverse the oil-surface charge. Though the symbiotic interaction between active ions (Ca<sup>2+</sup>, Mg<sup>2+</sup>, and SO<sub>4</sub><sup>2-</sup>) and the rock surface has been established but how they systematically interplay at different conditions have not been well explored and available data seems inconsistent. In the present work, we develop a reactive transport model that includes various reaction sets like aqueous reactions, mineral reactions in terms of precipitation and dissolution, and surface sorption reactions in terms of adsorption and ion exchange to investigate and discuss the affinity of these active ions toward the rock surface."
 date: 2017-10-11
-venue: 'Proceedings of the 2017 SPE Annual Technical Conference and Exhibition'
+venue: 'Proceedings of the SPE Annual Technical Conference and Exhibition'
 paperurl: 'https://doi.org/10.2118/189280-STU'
 citation: 'Awolayo, A.N. (2017). &quot;Geochemical Modeling of the Interplay Between Potential Determining Ions During Brine-Dependent Recovery in Carbonate Rocks.&quot; <i>Proceedings of the 2017 SPE Annual Technical Conference and Exhibition, October 9-11, San Antonio, Texas, USA</i>.'
 ---
