@@ -33,8 +33,18 @@ redirect_from:
 
 ### Teaching Experience
 
-See the [Teaching tab](https://dapson2real.github.io/web/teaching/) for details.
+Responsible for instructing, preparing lectures, grading and holding office hours.
 {: .small}
+
+| Period    |	Role    |	Course    |	Institution    |
+| --------       | --------       | --------       | --------       |
+| Fall 2017       | Teaching Assistant with Course Instructor: [Dr. Ayo Jeje](https://schulich.ucalgary.ca/profiles/ayodeji-aderopo-jeje)       | ENCH 501: Transport phenomenon       | University of Calgary       |
+| Fall 2016       | Laboratory Instructor with Course Instructor: [Dr. Arindom Sen](https://schulich.ucalgary.ca/profiles/arindom-sen)       | ENGG 201: Behavior of Liquids, Gases and Solids       | University of Calgary       |
+| Winter 2016       | Laboratory Instructor with Course Instructor: [Dr. Kunal Karan](https://schulich.ucalgary.ca/profiles/kunal-karan)       | ENGG 311: Engineering thermodynamics       | University of Calgary       |
+| Summer/Fall 2016       | Non-Teaching Assistant (Curriculum development) with Course Instructor: [Dr. Milana Trifkovic](https://schulich.ucalgary.ca/profiles/milana-trifkovic)       | ENCH 407: Numerical methods in Oil & Gas Engineering       | University of Calgary       |
+| Winter 2015       | Laboratory Instructor with Course Instructor: [Dr. Matthew Clarke](https://schulich.ucalgary.ca/profiles/matthew-clarke)       | ENGG 311: Engineering thermodynamics       | University of Calgary       |
+| Fall 2013       | Teaching Assistant with Course Instructor: [Dr. Ali M. AlSumaiti](http://www.ku.ac.ae/pages/dr-ali-mohamed-alsumaiti/)       | PEEG 301: Reservoir Engineering I       | Khalifa University       |
+
 
 ### Honors and Awards
 
