@@ -74,8 +74,28 @@ See the [Teaching tab](https://dapson2real.github.io/web/teaching/) for details.
 
 ### Publication
 
-See the [Publication tab](https://dapson2real.github.io/web/publications/) for the comprehensive list. You can also find my articles on either my [Google Scholar profile](https://scholar.google.ca/citations?user=2a5YwcYAAAAJ&hl=en) or [Mendeley profile](https://www.mendeley.com/profiles/adedapo-awolayo/). 
+See the [Publication tab](https://dapson2real.github.io/web/publications/) for the comprehensive list. You can also find my articles on either my [Google Scholar profile](https://scholar.google.ca/citations?user=2a5YwcYAAAAJ&hl=en) or [Mendeley profile](https://www.mendeley.com/profiles/adedapo-awolayo/). Below are the _presentations and posters_:
 {: .small}
+
+| Presentations                                                            |
+| --------------------------------------------------------------------------- |
+| Awolayo, A.N. Modeling of Fluid-Rock Interactions during Brine-CO<sub>2</sub> Reactive Transport Process. ExxonMobil Research Center, Spring, TX USA, October 2019. Invited seminar    |
+| Awolayo, A.N., Salazar, A., Bosshart, N.W., and Peck W. Geochemical Modeling of CO<sub>2</sub> Storage in North Dakota Formations. In: _Addressing the Nation’s Energy Needs Through Technology Innovation – 2019 Carbon Capture, Utilization, Storage, and Oil and Gas Technologies Integrated Review Meeting_, Pittsburgh, Pennsylvania, US, August 26 - 30, 2018. Poster presentation.     |
+| Awolayo, A.N. Geochemical Modeling of Fluid-Rock Interactions during Brine-CO<sub>2</sub> Reactive Transport Process. Lawrence Livermore National Laboratory, Livermore, CA USA, February 2019. Invited seminar - Virtual Delivery    |
+| Awolayo, A.N. Subsurface Thermal-Hydraulic-Mechanical (THM) Modeling of Geothermal Reservoirs to enhance understanding of stimulation, circulation and subsidence. National Renewable Energy Laboratory, Golden, CO USA, December 2018. Invited seminar     |
+| Awolayo, A.N. Geochemical Modeling of Hybrid Low-Saline-Brine-CO<sub>2</sub> Recovery in Petroleum Reservoirs. Energy and Environmental Research Center, Grand Forks, ND USA, October 2018. Invited seminar     |
+| Awolayo, A.N., Sarma, H.K., and Nghiem L.X. Mechanistic Modeling of Hybrid Low-Salinity-Brine-CO2 Injection in Carbonate Reservoirs. In: _Global Petroleum Show - North America’s Leading Exhibition & Conference_, Calgary, Canada, June 12 - 14, 2018. Poster presentation |
+| Awolayo, A.N. Geochemical modelling of brine dilution-dependent recovery in Carbonate Reservoirs. In: _SPE Canada 2017 Regional Student Paper Contest_, Vancouver, BC, Canada, February 25, 2017. Oral presentation. **First Place for Best Paper under PhD Category** |
+| Awolayo, A.N., Sarma, H.K., and AlSumaiti, A.M. Influence of Surface Interacting Ions on Smart Waterflood Application in Carbonate Reservoirs. In: _Fifth SPE Gulf Continental Countries Young Professional Paper Contest_, Abu Dhabi, United Arab Emirates, Nov. 23
+- 24, 2014. Oral presentation. |
+| Awolayo, A.N. Improvement of the Rumaitha/Shanayel Fluid System Compositional Model. In: _NEB Workshop in Abu Dhabi Company for Onshore Petroleum Operations Ltd_, Abu Dhabi, United Arab Emirates, May 21, 2015. Oral presentation. |
+| Awolayo, A.N. Experimental Investigation of Improved Oil Recovery by SmartWaterflooding on Carbonate Reservoirs: Combined Influence of Brine Salinity and Ionic Composition. In: _SPE Middle East 2014 Regional Student Paper Contest_, Dubai, United Arab Emirates,
+May 11, 2014. Oral presentation. **Finalist for Best Paper** |
+| Awolayo, A.N., Sarma, H.K., and AlSumaiti, A.M. Brine Ionic Effect on Smart Waterflood Application in Carbonate Reservoirs. In: _Fifth SPE Abu Dhabi Section Young Paper Contest_, Abu Dhabi, United Arab Emirates, May 7, 2014. Oral presentation. **Second Best Paper** |
+| Awolayo, A.N., Sarma, H.K., and AlSumaiti, A.M. Laboratory investigation of the impact of sulfate ions in smart water on carbonate rock wettability and oil recovery. In: _2014 Marine and Offshore Engineering Technology Conference_, El-Shuwaikh, Kuwait, March 4
+- 6, 2014. Oral presentation |
+| Awolayo, A.N., Sarma, H.K., and AlSumaiti, A.M. Laboratory studies have proved the potential of smart waterflooding in aging carbonate reservoirs. In: Proceedings of the 2014 Abu Dhabi National Oil Company Research and Development Academic Conference (ADRAC), February 24 - 26, 2014. Poster presentation |
+| Zhang Y., Awolayo, A.N., and Sarma H.K. Brine Chemistry Effect on Waterflood and CO<sub>2</sub> Injection in Carbonate Reservoirs. In: _Forth SPE Abu Dhabi Section Young Professional Paper Contest_, Abu Dhabi, United Arab Emirates, May 15, 2013. Oral presentation. **Third Best Paper** |
 
 ### Professional and Volunteer Service
 
