@@ -74,7 +74,10 @@ See the [Teaching tab](https://dapson2real.github.io/web/teaching/) for details.
 
 ### Publication
 
-See the [Publication tab](https://dapson2real.github.io/web/publications/) for the comprehensive list. You can also find my articles on either my [Google Scholar profile](https://scholar.google.ca/citations?user=2a5YwcYAAAAJ&hl=en) or [Mendeley profile](https://www.mendeley.com/profiles/adedapo-awolayo/). Below are the _presentations and posters_:
+See the [Publication tab](https://dapson2real.github.io/web/publications/) for the comprehensive list. You can also find my articles on either my [Google Scholar profile](https://scholar.google.ca/citations?user=2a5YwcYAAAAJ&hl=en) or [Mendeley profile](https://www.mendeley.com/profiles/adedapo-awolayo/). Below are the _presentations and posters_: 
+{% if site.talkmap_link == true %}
+  <p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+{% endif %}
 {: .small}
 
 | Presentations                                                            |
