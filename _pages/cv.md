@@ -86,8 +86,6 @@ Responsible for instructing, preparing lectures, grading and holding office hour
 
 See the [Publication tab](https://dapson2real.github.io/web/publications/) for the comprehensive list. You can also find my articles on either my [Google Scholar profile](https://scholar.google.ca/citations?user=2a5YwcYAAAAJ&hl=en) or [Mendeley profile](https://www.mendeley.com/profiles/adedapo-awolayo/). Below are some of my _oral and poster presentations_: 
 {: .small}
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-{: .small}
 
 | Presentations                                                            |
 | --------------------------------------------------------------------------- |
