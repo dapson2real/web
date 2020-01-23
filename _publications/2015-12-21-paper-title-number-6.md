@@ -2,7 +2,7 @@
 title: "An Experimental Investigation into the Impact of Sulfate ion in Smart Water to Improve Oil Recovery in Carbonate Reservoirs"
 category: article
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-6
+permalink: /publication/2015-12-21-paper-title-number-6
 excerpt: 'Carbonate reservoirs are considered to be in the range of mixed to oil wetting state. Their present wetting state seems unfavorable to recover more oil via conventional waterflooding especially as the water cut increases with huge residual oil saturation. In recent years, studies have shown that tuning the injected brine chemistry can help decrease the oil-wetness, resulting in additional oil recovery and reduction in residual oil saturation. Thus, rock wettability is being dictated by the surface chemistry associated with the water-film stability between crude oil and the rock surface. This study presents series of experiments conducted on Middle Eastern carbonate core plugs at high pressure and high temperature in order to determine the impact of sulfate ions in smart brine on oil recovery.'
 date: 2015-12-21
 venue: 'Transport in Porous Media'
