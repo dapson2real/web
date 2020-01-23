@@ -36,7 +36,7 @@ redirect_from:
 Responsible for instructing, preparing lectures, grading and holding office hours.
 {: .small}
 
-| Period    |	Role    |	Course  | Course Coordinator  |	Institution    |
+| Period    |	Role    |	Course Coordinator  | Course   |	Institution    |
 | --------       | --------    | --------    | --------       | --------       |
 | Fall 2017       | Teaching Assistant | [Dr. Ayo Jeje](https://schulich.ucalgary.ca/profiles/ayodeji-aderopo-jeje)       | ENCH 501: Transport phenomenon       | University of Calgary       |
 | Fall 2016       | Laboratory Instructor | [Dr. Arindom Sen](https://schulich.ucalgary.ca/profiles/arindom-sen)       | ENGG 201: Behavior of Liquids, Gases and Solids       | University of Calgary       |
