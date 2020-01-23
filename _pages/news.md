@@ -3,7 +3,7 @@ permalink: /news/
 title: "News"
 author_profile: true
 ---
-Stay tuned for up-to-date information
+Stay tuned for up-to-date information!
 {: .small}
 
 |Date|News|
