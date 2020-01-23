@@ -5,7 +5,7 @@ collection: publications
 permalink: /publication/2015-11-12-paper-title-number-5
 excerpt: "The studied field is located in Abu Dhabi and has been identified as faulted anticlines structure with associated local fractures. The reservoir is characterized by lateral and vertical variations in reservoir rock and fluid properties ranging from a gas condensate at the top of the structure to undersaturated black oil down the reservoir. A substantial compositional gradient has been identified from over 50 fluid samples taken at different depths over the thick fluid column of about 1500 feet. The field is presently under miscible hydrocarbon WAG (HC-WAG) injection, water injection and future consideration for CO2-WAG injection. The field has been characterized using an Equation of State (EOS) model and compositional mapping with areal changes of saturation pressure. Therefore, the aim of this study is to improve the compositional model that can replicate the areal and vertical variation in the fluid thermodynamic."
 date: 2015-11-12
-venue: 'Proceedings of the 2015 Abu Dhabi International Petroleum Exhibition & Conference (ADIPEC 2015), November 9 - 12, UAE'
+venue: 'Proceedings of the 2015 Abu Dhabi International Petroleum Exhibition & Conference'
 paperurl: 'https://doi.org/10.2118/177693-MS'
 citation: 'Khan, A.K., Uchida, M., Awolayo, A.N., Olayiwola, S.O. and Khaled E.A. (2015). &quot;Improvement of the Compositional Model to Represent a Complex Fluid System of a U.A.E. Carbonate Reservoir.&quot; <i>Proceedings of the 2015 Abu Dhabi International Petroleum Exhibition & Conference (ADIPEC 2015), November 9 - 12, UAE</i>.'
 ---
