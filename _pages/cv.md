@@ -91,8 +91,7 @@ See the [Publication tab](https://dapson2real.github.io/web/publications/) for t
 | Awolayo, A.N. Experimental Investigation of Improved Oil Recovery by SmartWaterflooding on Carbonate Reservoirs: Combined Influence of Brine Salinity and Ionic Composition. In: _SPE Middle East 2014 Regional Student Paper Contest_, Dubai, United Arab Emirates,
 May 11, 2014. `Oral presentation`. **Finalist for Best Paper** |
 | Awolayo, A.N., Sarma, H.K., and AlSumaiti, A.M. Brine Ionic Effect on Smart Waterflood Application in Carbonate Reservoirs. In: _Fifth SPE Abu Dhabi Section Young Paper Contest_, Abu Dhabi, United Arab Emirates, May 7, 2014. `Oral presentation`. **Second Best Paper** |
-| Awolayo, A.N., Sarma, H.K., and AlSumaiti, A.M. Laboratory investigation of the impact of sulfate ions in smart water on carbonate rock wettability and oil recovery. In: _2014 Marine and Offshore Engineering Technology Conference_, El-Shuwaikh, Kuwait, March 4
-- 6, 2014. `Oral presentation` |
+| Awolayo, A.N., Sarma, H.K., and AlSumaiti, A.M. Laboratory investigation of the impact of sulfate ions in smart water on carbonate rock wettability and oil recovery. In: _2014 Marine and Offshore Engineering Technology Conference_, El-Shuwaikh, Kuwait, March 4 - 6, 2014. `Oral presentation` |
 | Awolayo, A.N., Sarma, H.K., and AlSumaiti, A.M. Laboratory studies have proved the potential of smart waterflooding in aging carbonate reservoirs. In: Proceedings of the 2014 Abu Dhabi National Oil Company Research and Development Academic Conference (ADRAC), February 24 - 26, 2014. `Poster presentation` |
 | Zhang Y., Awolayo, A.N., and Sarma H.K. Brine Chemistry Effect on Waterflood and CO<sub>2</sub> Injection in Carbonate Reservoirs. In: _Forth SPE Abu Dhabi Section Young Professional Paper Contest_, Abu Dhabi, United Arab Emirates, May 15, 2013. `Oral presentation`. **Third Best Paper** |
 
