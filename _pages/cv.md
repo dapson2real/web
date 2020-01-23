@@ -43,7 +43,7 @@ Responsible for instructing, preparing lectures, grading and holding office hour
 | Winter 2016       | Laboratory Instructor with Course Instructor: [Dr. Kunal Karan](https://schulich.ucalgary.ca/profiles/kunal-karan)       | ENGG 311: Engineering thermodynamics       | University of Calgary       |
 | Summer/Fall 2016       | Non-Teaching Assistant (Curriculum development) with Course Instructor: [Dr. Milana Trifkovic](https://schulich.ucalgary.ca/profiles/milana-trifkovic)       | ENCH 407: Numerical methods in Oil & Gas Engineering       | University of Calgary       |
 | Winter 2015       | Laboratory Instructor with Course Instructor: [Dr. Matthew Clarke](https://schulich.ucalgary.ca/profiles/matthew-clarke)       | ENGG 311: Engineering thermodynamics       | University of Calgary       |
-| Fall 2013       | Teaching Assistant with Course Instructor: [Dr. Ali M. AlSumaiti](http://www.ku.ac.ae/pages/dr-ali-mohamed-alsumaiti/)       | PEEG 301: Reservoir Engineering I       | Khalifa University       |
+| Fall 2013       | Teaching Assistant with Course Instructor: [Dr. Ali M. AlSumaiti](https://www.researchgate.net/profile/Ali_Alsumaiti)       | PEEG 301: Reservoir Engineering I       | Khalifa University       |
 
 
 ### Honors and Awards
