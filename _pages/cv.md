@@ -36,14 +36,14 @@ redirect_from:
 Responsible for instructing, preparing lectures, grading and holding office hours.
 {: .small}
 
-| Period    |	Role    |	Course    |	Institution    |
-| --------       | --------       | --------       | --------       |
-| Fall 2017       | Teaching Assistant with Course Instructor: [Dr. Ayo Jeje](https://schulich.ucalgary.ca/profiles/ayodeji-aderopo-jeje)       | ENCH 501: Transport phenomenon       | University of Calgary       |
-| Fall 2016       | Laboratory Instructor with Course Instructor: [Dr. Arindom Sen](https://schulich.ucalgary.ca/profiles/arindom-sen)       | ENGG 201: Behavior of Liquids, Gases and Solids       | University of Calgary       |
-| Winter 2016       | Laboratory Instructor with Course Instructor: [Dr. Kunal Karan](https://schulich.ucalgary.ca/profiles/kunal-karan)       | ENGG 311: Engineering thermodynamics       | University of Calgary       |
-| Summer/Fall 2016       | Non-Teaching Assistant (Curriculum development) with Course Instructor: [Dr. Milana Trifkovic](https://schulich.ucalgary.ca/profiles/milana-trifkovic)       | ENCH 407: Numerical methods in Oil & Gas Engineering       | University of Calgary       |
-| Winter 2015       | Laboratory Instructor with Course Instructor: [Dr. Matthew Clarke](https://schulich.ucalgary.ca/profiles/matthew-clarke)       | ENGG 311: Engineering thermodynamics       | University of Calgary       |
-| Fall 2013       | Teaching Assistant with Course Instructor: [Dr. Ali M. AlSumaiti](https://www.researchgate.net/profile/Ali_Alsumaiti)       | PEEG 301: Reservoir Engineering I       | Khalifa University       |
+| Period    |	Role    |	Course  | Course Coordinator  |	Institution    |
+| --------       | --------    | --------    | --------       | --------       |
+| Fall 2017       | Teaching Assistant | [Dr. Ayo Jeje](https://schulich.ucalgary.ca/profiles/ayodeji-aderopo-jeje)       | ENCH 501: Transport phenomenon       | University of Calgary       |
+| Fall 2016       | Laboratory Instructor | [Dr. Arindom Sen](https://schulich.ucalgary.ca/profiles/arindom-sen)       | ENGG 201: Behavior of Liquids, Gases and Solids       | University of Calgary       |
+| Winter 2016       | Laboratory Instructor | [Dr. Kunal Karan](https://schulich.ucalgary.ca/profiles/kunal-karan)       | ENGG 311: Engineering thermodynamics       | University of Calgary       |
+| Summer/Fall 2016       | Non-Teaching Assistant (Curriculum development) | [Dr. Milana Trifkovic](https://schulich.ucalgary.ca/profiles/milana-trifkovic)       | ENCH 407: Numerical methods in Oil & Gas Engineering       | University of Calgary       |
+| Winter 2015       | Laboratory Instructor | [Dr. Matthew Clarke](https://schulich.ucalgary.ca/profiles/matthew-clarke)       | ENGG 311: Engineering thermodynamics       | University of Calgary       |
+| Fall 2013       | Teaching Assistant | [Dr. Ali M. AlSumaiti](https://www.researchgate.net/profile/Ali_Alsumaiti)       | PEEG 301: Reservoir Engineering I       | Khalifa University       |
 
 
 ### Honors and Awards
