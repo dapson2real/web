@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my page. My first name is Adedapo, but prefers **Dapo**. I am an engineer/scientist looking for challenging opportunities in an industrial/academic environment. I hope you will find the content here useful, if you need to reach out to me, click [here](https://dapson2real.github.io/web/contact/) for my various contact information.
+Welcome to my page. My first name is Adedapo, but prefers **Dapo**. I am an engineer/scientist looking for challenging opportunities in an industrial/academic environment. As a professional, I am always eager and interested in devising a better problem-solving method for challenging tasks, and learning new technologies and tools as the need arises. I hope you will find the content here useful, if you need to reach out to me, click [here](https://dapson2real.github.io/web/contact/) for my various contact information.
 {: .small}
 
 I received my Ph.D. from the [University of Calgary - Schulich School of Engineering](http://schulich.ucalgary.ca/departments/chemical-and-petroleum-engineering/), Alberta, Canada, my MSc in Petroleum Engineering at [Khalifa University](http://www.ku.ac.ae/), U.A.E and my B.Tech in Chemical Engineering at [Ladoke Akintola University of Technology](http://www.lautech.edu.ng/), Nigeria. Previously, I worked as a doctoral research scientist for Computer Modelling Group Ltd, Calgary, a reservoir engineer for Abu Dhabi National Oil Company – Onshore, and a research engineer for Khalifa University, Abu Dhabi, U.A.E.
