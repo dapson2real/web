@@ -25,8 +25,8 @@ redirect_from:
 
 | Date              | Position | Affiliated Organization |
 |:--------          |:-------  |:--------|
-| Sept. 2015 - Feb. 2019       | Doctoral Research | Data Scientist (Subsurface Tools Development)    | University of Calgary & [Computer Modelling Group Ltd.](https://www.cmgl.ca/) (R&D Division)  |
-| Aug. 2014 - Sept. 2015        | Reservoir Engineer | Data Analyst (Reservoir Strategy and Onshore Operations Team)                  | [Abu Dhabi National Oil Company (ADNOC) Onshore](https://adnoc.ae/adnoc-onshore)   |
+| Sept. 2015 - Feb. 2019       | Doctoral Research & Data Scientist (Subsurface Tools Development)    | University of Calgary & [Computer Modelling Group Ltd.](https://www.cmgl.ca/) (R&D Division)  |
+| Aug. 2014 - Sept. 2015        | Reservoir Engineer & Data Analyst (Reservoir Strategy and Onshore Operations Team)                  | [Abu Dhabi National Oil Company (ADNOC) Onshore](https://adnoc.ae/adnoc-onshore)   |
 | Aug. 2012 - Aug. 2014     | Research Scientist (Subsurface Tools Development)               | Khalifa University      |
 | April 2009 - Oct. 2009     | Facility Quality Control Chemist (Internship)               | [Total Nigeria Plc.](http://www.total.com.ng/home.html) (Downstream Division)      |
 
