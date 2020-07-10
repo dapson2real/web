@@ -19,14 +19,14 @@ redirect_from:
 
 ### Research and Industrial Experience
 
-> A versatile and results-driven professional in subsurface multiphase engineering and simulation. Demonstrated success in using applied research and analytical skills to provide solutions to complex engineering problems as shown through independent innovation and multidisciplinary collaborations
+> A versatile and results-driven professional in subsurface multiphase engineering and simulation, who also takes pride in building models that translate datasets into insights and strategy. Demonstrated success in using applied research and analytical skills to provide solutions to complex problems as shown through independent innovation and multidisciplinary collaborations
 {: .small}
 
 
 | Date              | Position | Affiliated Organization |
 |:--------          |:-------  |:--------|
-| Sept. 2015 - Feb. 2019       | Doctoral Research Scientist (Subsurface Tools Development)    | University of Calgary & [Computer Modelling Group Ltd.](https://www.cmgl.ca/) (R&D Division)  |
-| Aug. 2014 - Sept. 2015        | Reservoir Engineer (Reservoir Strategy and Onshore Operations Team)                  | [Abu Dhabi National Oil Company (ADNOC) Onshore](https://adnoc.ae/adnoc-onshore)   |
+| Sept. 2015 - Feb. 2019       | Doctoral Research | Data Scientist (Subsurface Tools Development)    | University of Calgary & [Computer Modelling Group Ltd.](https://www.cmgl.ca/) (R&D Division)  |
+| Aug. 2014 - Sept. 2015        | Reservoir Engineer | Data Analyst (Reservoir Strategy and Onshore Operations Team)                  | [Abu Dhabi National Oil Company (ADNOC) Onshore](https://adnoc.ae/adnoc-onshore)   |
 | Aug. 2012 - Aug. 2014     | Research Scientist (Subsurface Tools Development)               | Khalifa University      |
 | April 2009 - Oct. 2009     | Facility Quality Control Chemist (Internship)               | [Total Nigeria Plc.](http://www.total.com.ng/home.html) (Downstream Division)      |
 
